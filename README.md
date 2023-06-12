@@ -14,3 +14,5 @@ The reset sheet that was used was taken from Normalize.css at https://necolas.gi
 The HTML sheet is available under /index.html
 
 ```
+## Link to Portfolio
+https://bertisjoey.github.io/Portfolio/
