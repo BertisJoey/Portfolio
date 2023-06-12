@@ -16,3 +16,6 @@ The HTML sheet is available under /index.html
 ```
 ## Link to Portfolio
 https://bertisjoey.github.io/Portfolio/
+
+## Screenshot of Site
+![Screenshot of Portfolio](./assets/Screenshot of portfolio.png)
